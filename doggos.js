@@ -1,4 +1,4 @@
-// const page = document.querySelector(".doggos");
+const page = document.querySelector(".doggos");
 const DOG_URL = "https://dog.ceo/api/breeds/image/random";
 
 function gimmeMoreDoggos() {
