@@ -16,4 +16,4 @@ function gimmeMoreDoggos() {
     });
 }
 
-// document.querySelector(".addDoggo").addEventListener("click", gimmeMoreDoggos);
+document.querySelector(".addDoggo").addEventListener("click", gimmeMoreDoggos);
